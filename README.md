@@ -1,4 +1,4 @@
-# PokedexApp
+# PocketDex
 
 A responsive web Pokédex. Browse Pokémon, filter the catalog and explore their statistics and evolutions. Inspired by [lazyjinchuriki's Pokédex](https://github.com/lazyjinchuriki/pokedex).
 
@@ -18,7 +18,7 @@ A responsive web Pokédex. Browse Pokémon, filter the catalog and explore their
 ## Repository Structure
 
 ```text
-PokedexApp/
+PocketDex/
 |-- docs/
 |   `-- screenshots/
 |       |-- base statistics.png
